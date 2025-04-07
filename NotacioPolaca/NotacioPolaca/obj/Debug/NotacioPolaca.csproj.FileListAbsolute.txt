@@ -1,0 +1,10 @@
+C:\Users\akim2\source\repos\PilaGrafica_Ibra_Laia_Akim\NotacioPolaca\NotacioPolaca\bin\Debug\NotacioPolaca.exe.config
+C:\Users\akim2\source\repos\PilaGrafica_Ibra_Laia_Akim\NotacioPolaca\NotacioPolaca\bin\Debug\NotacioPolaca.exe
+C:\Users\akim2\source\repos\PilaGrafica_Ibra_Laia_Akim\NotacioPolaca\NotacioPolaca\bin\Debug\NotacioPolaca.pdb
+C:\Users\akim2\source\repos\PilaGrafica_Ibra_Laia_Akim\NotacioPolaca\NotacioPolaca\obj\Debug\NotacioPolaca.csproj.AssemblyReference.cache
+C:\Users\akim2\source\repos\PilaGrafica_Ibra_Laia_Akim\NotacioPolaca\NotacioPolaca\obj\Debug\NotacioPolaca.MainForm.resources
+C:\Users\akim2\source\repos\PilaGrafica_Ibra_Laia_Akim\NotacioPolaca\NotacioPolaca\obj\Debug\NotacioPolaca.Properties.Resources.resources
+C:\Users\akim2\source\repos\PilaGrafica_Ibra_Laia_Akim\NotacioPolaca\NotacioPolaca\obj\Debug\NotacioPolaca.csproj.GenerateResource.cache
+C:\Users\akim2\source\repos\PilaGrafica_Ibra_Laia_Akim\NotacioPolaca\NotacioPolaca\obj\Debug\NotacioPolaca.csproj.CoreCompileInputs.cache
+C:\Users\akim2\source\repos\PilaGrafica_Ibra_Laia_Akim\NotacioPolaca\NotacioPolaca\obj\Debug\NotacioPolaca.exe
+C:\Users\akim2\source\repos\PilaGrafica_Ibra_Laia_Akim\NotacioPolaca\NotacioPolaca\obj\Debug\NotacioPolaca.pdb
