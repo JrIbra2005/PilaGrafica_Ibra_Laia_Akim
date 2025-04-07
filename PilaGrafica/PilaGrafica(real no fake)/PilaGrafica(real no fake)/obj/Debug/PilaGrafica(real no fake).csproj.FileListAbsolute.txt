@@ -1,0 +1,10 @@
+C:\Users\esmae\Documents\GitHub\PilaGrafica_Ibra_Laia_Akim\PilaGrafica\PilaGrafica(real no fake)\PilaGrafica(real no fake)\obj\Debug\PilaGrafica(real no fake).csproj.AssemblyReference.cache
+C:\Users\esmae\Documents\GitHub\PilaGrafica_Ibra_Laia_Akim\PilaGrafica\PilaGrafica(real no fake)\PilaGrafica(real no fake)\obj\Debug\PilaGrafica_real_no_fake_.Form1.resources
+C:\Users\esmae\Documents\GitHub\PilaGrafica_Ibra_Laia_Akim\PilaGrafica\PilaGrafica(real no fake)\PilaGrafica(real no fake)\obj\Debug\PilaGrafica_real_no_fake_.Properties.Resources.resources
+C:\Users\esmae\Documents\GitHub\PilaGrafica_Ibra_Laia_Akim\PilaGrafica\PilaGrafica(real no fake)\PilaGrafica(real no fake)\obj\Debug\PilaGrafica(real no fake).csproj.GenerateResource.cache
+C:\Users\esmae\Documents\GitHub\PilaGrafica_Ibra_Laia_Akim\PilaGrafica\PilaGrafica(real no fake)\PilaGrafica(real no fake)\obj\Debug\PilaGrafica(real no fake).csproj.CoreCompileInputs.cache
+C:\Users\esmae\Documents\GitHub\PilaGrafica_Ibra_Laia_Akim\PilaGrafica\PilaGrafica(real no fake)\PilaGrafica(real no fake)\bin\Debug\PilaGrafica(real no fake).exe.config
+C:\Users\esmae\Documents\GitHub\PilaGrafica_Ibra_Laia_Akim\PilaGrafica\PilaGrafica(real no fake)\PilaGrafica(real no fake)\bin\Debug\PilaGrafica(real no fake).exe
+C:\Users\esmae\Documents\GitHub\PilaGrafica_Ibra_Laia_Akim\PilaGrafica\PilaGrafica(real no fake)\PilaGrafica(real no fake)\bin\Debug\PilaGrafica(real no fake).pdb
+C:\Users\esmae\Documents\GitHub\PilaGrafica_Ibra_Laia_Akim\PilaGrafica\PilaGrafica(real no fake)\PilaGrafica(real no fake)\obj\Debug\PilaGrafica(real no fake).exe
+C:\Users\esmae\Documents\GitHub\PilaGrafica_Ibra_Laia_Akim\PilaGrafica\PilaGrafica(real no fake)\PilaGrafica(real no fake)\obj\Debug\PilaGrafica(real no fake).pdb
