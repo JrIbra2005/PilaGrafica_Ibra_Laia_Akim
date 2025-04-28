@@ -1,0 +1,10 @@
+C:\Users\akim2\source\repos\PilaGrafica_Ibra_Laia_Akim\PilaGrafica\PilaGrafica(real no fake)\PilaGrafica(real no fake)\bin\Debug\PilaGrafica(real no fake).exe.config
+C:\Users\akim2\source\repos\PilaGrafica_Ibra_Laia_Akim\PilaGrafica\PilaGrafica(real no fake)\PilaGrafica(real no fake)\bin\Debug\PilaGrafica(real no fake).exe
+C:\Users\akim2\source\repos\PilaGrafica_Ibra_Laia_Akim\PilaGrafica\PilaGrafica(real no fake)\PilaGrafica(real no fake)\bin\Debug\PilaGrafica(real no fake).pdb
+C:\Users\akim2\source\repos\PilaGrafica_Ibra_Laia_Akim\PilaGrafica\PilaGrafica(real no fake)\PilaGrafica(real no fake)\obj\Debug\PilaGrafica(real no fake).csproj.AssemblyReference.cache
+C:\Users\akim2\source\repos\PilaGrafica_Ibra_Laia_Akim\PilaGrafica\PilaGrafica(real no fake)\PilaGrafica(real no fake)\obj\Debug\PilaGrafica_real_no_fake_.MainForm.resources
+C:\Users\akim2\source\repos\PilaGrafica_Ibra_Laia_Akim\PilaGrafica\PilaGrafica(real no fake)\PilaGrafica(real no fake)\obj\Debug\PilaGrafica_real_no_fake_.Properties.Resources.resources
+C:\Users\akim2\source\repos\PilaGrafica_Ibra_Laia_Akim\PilaGrafica\PilaGrafica(real no fake)\PilaGrafica(real no fake)\obj\Debug\PilaGrafica(real no fake).csproj.GenerateResource.cache
+C:\Users\akim2\source\repos\PilaGrafica_Ibra_Laia_Akim\PilaGrafica\PilaGrafica(real no fake)\PilaGrafica(real no fake)\obj\Debug\PilaGrafica(real no fake).csproj.CoreCompileInputs.cache
+C:\Users\akim2\source\repos\PilaGrafica_Ibra_Laia_Akim\PilaGrafica\PilaGrafica(real no fake)\PilaGrafica(real no fake)\obj\Debug\PilaGrafica(real no fake).exe
+C:\Users\akim2\source\repos\PilaGrafica_Ibra_Laia_Akim\PilaGrafica\PilaGrafica(real no fake)\PilaGrafica(real no fake)\obj\Debug\PilaGrafica(real no fake).pdb
